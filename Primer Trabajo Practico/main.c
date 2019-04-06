@@ -86,7 +86,7 @@ int main()
             }
             break;
         default:
-            printf("       Ha ingresado un numero erroneo. Vuelva a ingrear un numero entre (1-5).\n \n       Presiona ENTER para continuar");
+            printf("       Ha ingresado un numero erroneo. Vuelva a ingrear un numero entre (1-5).\n       Presiona ENTER para continuar");
             getch();
             break;
     }
