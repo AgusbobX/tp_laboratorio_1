@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554512652 source:c:\users\agusbob\desktop\primer trabajo practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculos.h"
+
+1554512694 c:\users\agusbob\desktop\primer trabajo practico\calculos.h
+
+1554512759 source:c:\users\agusbob\desktop\primer trabajo practico\calculos.c
+	<stdio.h>
+	<stdlib.h>
+	"calculos.h"
+
