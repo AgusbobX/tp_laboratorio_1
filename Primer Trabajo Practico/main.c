@@ -85,6 +85,10 @@ int main()
                 continuar = 1;
             }
             break;
+        default:
+            printf("       Ha ingresado un numero erroneo. Vuelva a ingrear un numero entre (1-5).\n \n       Presiona ENTER para continuar");
+            getch();
+            break;
     }
             system("cls");
         }
